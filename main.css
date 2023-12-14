@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main_title {
+    font-size: 30px;
+}
+
+.main {
+    font-size: 20px;
+    text-align: center;
+    width: 40%;
+    margin: 150px auto;
+    justify-content: center;
+}
+
+.links {
+    width: 100%;
+}
+
+.link {
+    display: inline-block;
+    margin: 20px;
+}
